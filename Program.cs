@@ -5,6 +5,8 @@ namespace Smart_School_Managment
     {
         public static void Main(string[] args)
         {
+
+            //hi
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
