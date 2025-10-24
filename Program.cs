@@ -1,4 +1,4 @@
-
+  
 namespace Smart_School_Managment
 {
     public class Program
@@ -31,6 +31,7 @@ namespace Smart_School_Managment
             app.MapControllers();
 
             app.Run();
+            // programmend
         }
     }
 }
