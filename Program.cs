@@ -1,10 +1,13 @@
-
+  
 namespace Smart_School_Managment
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+
+            //hi
+            //hello
             var builder = WebApplication.CreateBuilder(args);
 
             //hi
@@ -33,6 +36,7 @@ namespace Smart_School_Managment
             app.MapControllers();
 
             app.Run();
+            // programmend
         }
     }
 }
